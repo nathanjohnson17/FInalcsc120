@@ -1,0 +1,15 @@
+/**
+ * Enum representing the type of a boat.
+ * It can be either SAILING or POWER.
+ */
+public enum BoatType {
+    /**
+     * Represents a sailing boat.
+     */
+    SAILING,
+
+    /**
+     * Represents a power boat.
+     */
+    POWER
+}
